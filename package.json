@@ -1,0 +1,26 @@
+{
+  "name": "jayanusa-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adil Saputra",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "datatables-query": "^0.2.0",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19",
+    "path": "^0.12.7",
+    "req-flash": "^0.0.3",
+    "rupiah-format": "^1.0.0"
+  }
+}
